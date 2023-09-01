@@ -17,8 +17,8 @@ terraform {
 
 provider "aws" {
     region = "us-east-1"
-    access_key = "AKIAV6V2HHXIXNXTLHEU"
-    secret_key = "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"
+    access_key = ""
+    secret_key = ""
 }
 
 #Creating private and public instances
